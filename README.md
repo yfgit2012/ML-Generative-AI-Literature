@@ -8,17 +8,22 @@
 
 #### RAG
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Apr 2021) &nbsp;[Link](https://arxiv.org/abs/2005.11401) &nbsp;[PDF](https://arxiv.org/pdf/2005.11401.pdf)
-* Benchmarking Large Language Models in Retrieval-Augmented Generation (Sep 2023) &nbsp;[Link](https://arxiv.org/abs/2309.01431) &nbsp;[PDF](https://arxiv.org/pdf/2309.01431.pdf)      
 * Fine-tune the Entire RAG Architecture (including DPR retriever) for Question-Answering (Jun 2021) &nbsp;[Link](https://arxiv.org/abs/2106.11517) &nbsp;[PDF](https://arxiv.org/pdf/2106.11517.pdf)
+* Benchmarking Large Language Models in Retrieval-Augmented Generation (Sep 2023) &nbsp;[Link](https://arxiv.org/abs/2309.01431) &nbsp;[PDF](https://arxiv.org/pdf/2309.01431.pdf)      
+
 
 #### Parameter Efficient Fine Tuning
-* Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (Aug 2022) &nbsp;[Link](https://arxiv.org/abs/2205.05638?ref=txt.cohere.com) &nbsp;[PDF](https://arxiv.org/pdf/2205.05638.pdf)
-* Parameter-Efficient Fine-Tuning without Introducing New Latency (May 2023) &nbsp;[Link](https://arxiv.org/abs/2305.16742) &nbsp;[PDF](https://arxiv.org/pdf/2305.16742.pdf)
+* Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (Aug 2022) &nbsp;[Link](https://arxiv.org/abs/2205.05638?ref=txt.cohere.com) &nbsp;[PDF](https://arxiv.org/pdf/2205.05638.pdf)  
 * The Power of Scale for Parameter-Efficient Prompt Tuning (Sep 2021) &nbsp;[Link](https://arxiv.org/abs/2104.08691) &nbsp;[PDF](https://arxiv.org/pdf/2104.08691.pdf)
 * LoRA: Low-Rank Adaptation of Large Language Models (Oct 2021) &nbsp;[Link](https://arxiv.org/abs/2106.09685) &nbsp;[PDF](https://arxiv.org/pdf/2106.09685.pdf)
+* Parameter-Efficient Fine-Tuning without Introducing New Latency (May 2023) &nbsp;[Link](https://arxiv.org/abs/2305.16742) &nbsp;[PDF](https://arxiv.org/pdf/2305.16742.pdf)
 
 #### Reinforcement Learning 
-*
+* Training language models to follow instructions with human feedback (Mar 2022) &nbsp;[Link](https://arxiv.org/abs/2203.02155) &nbsp;[PDF](https://arxiv.org/pdf/2203.02155.pdf)
+* Secrets of RLHF in Large Language Models Part I: PPO (Jul 2023) &nbsp;[Link](https://arxiv.org/abs/2307.04964) &nbsp;[PDF](https://arxiv.org/pdf/2307.04964.pdf)
+* RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (Sep 2023) &nbsp;[Link](https://arxiv.org/abs/2309.00267) &nbsp;[PDF](https://arxiv.org/pdf/2309.00267.pdf)
+* Constitutional AI: Harmlessness from AI Feedback (Dec 2022) &nbsp;[Link](https://arxiv.org/abs/2212.08073) &nbsp;[PDF](https://arxiv.org/pdf/2212.08073.pdf)
 
 #### Self-Instruct  
-* 
+* Self-Instruct: Aligning Language Models with Self-Generated Instructions (May 2023) &nbsp;[Link](https://arxiv.org/abs/2212.10560) &nbsp;[PDF](https://arxiv.org/pdf/2212.10560.pdf)
+  
