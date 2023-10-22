@@ -23,6 +23,7 @@
 * Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (Aug 2022) &nbsp;[Link](https://arxiv.org/abs/2205.05638?ref=txt.cohere.com) &nbsp;[PDF](https://arxiv.org/pdf/2205.05638.pdf)  
 * The Power of Scale for Parameter-Efficient Prompt Tuning (Sep 2021) &nbsp;[Link](https://arxiv.org/abs/2104.08691) &nbsp;[PDF](https://arxiv.org/pdf/2104.08691.pdf)
 * LoRA: Low-Rank Adaptation of Large Language Models (Oct 2021) &nbsp;[Link](https://arxiv.org/abs/2106.09685) &nbsp;[PDF](https://arxiv.org/pdf/2106.09685.pdf)
+* QLoRA: Efficient Finetuning of Quantized LLMs (May 2023) &nbsp;[Link](https://arxiv.org/abs/2305.14314) &nbsp;[PDF](https://arxiv.org/pdf/2305.14314.pdf)
 * Parameter-Efficient Fine-Tuning without Introducing New Latency (May 2023) &nbsp;[Link](https://arxiv.org/abs/2305.16742) &nbsp;[PDF](https://arxiv.org/pdf/2305.16742.pdf)
 
 #### Reinforcement Learning 
