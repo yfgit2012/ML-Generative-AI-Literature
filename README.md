@@ -2,7 +2,7 @@
 
 #### Large Language Model
 * LLaMA: Open and Efficient Foundation Language Models (Feb 2023) &nbsp;[Link](https://arxiv.org/abs/2302.13971) &nbsp;[PDF](https://arxiv.org/pdf/2302.13971.pdf)
-* Stanford Alpaca: An Instruction-following LLaMA Model (March 2023) &nbsp;[Link](https://github.com/tatsu-lab/stanford_alpaca)
+* Stanford Alpaca: An Instruction-following LLaMA Model (March 2023) &nbsp;[Link](https://crfm.stanford.edu/2023/03/13/alpaca.html)[Github](https://github.com/tatsu-lab/stanford_alpaca)
 * Llama 2: Open Foundation and Fine-Tuned Chat Models (Jul 2023) &nbsp;[Link](https://arxiv.org/abs/2307.09288) &nbsp;[PDF](https://arxiv.org/pdf/2307.09288.pdf)
 * The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2306.01116) &nbsp;[PDF](https://arxiv.org/pdf/2306.01116.pdf)
 * Mistral 7B (Oct 2023) &nbsp;[Link](https://arxiv.org/abs/2310.06825) &nbsp;[PDF](https://arxiv.org/pdf/2310.06825.pdf)
@@ -15,6 +15,7 @@
 #### Fine Tuning
 * Instruction Tuning for Large Language Models: A Survey (Oct 2023) &nbsp;[Link](https://arxiv.org/abs/2308.10792) &nbsp;[PDF](https://arxiv.org/pdf/2308.10792.pdf) 
 * Self-Instruct: Aligning Language Models with Self-Generated Instructions (May 2023) &nbsp;[Link](https://arxiv.org/abs/2212.10560) &nbsp;[PDF](https://arxiv.org/pdf/2212.10560.pdf)
+* On the Exploitability of Instruction Tuning (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2306.17194) &nbsp;[PDF](https://arxiv.org/pdf/2306.17194.pdf)
 * LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2303.16199) &nbsp;[PDF](https://arxiv.org/pdf/2303.16199.pdf)
 
 #### Parameter Efficient Fine Tuning
