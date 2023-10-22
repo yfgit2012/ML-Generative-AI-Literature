@@ -29,5 +29,6 @@
 * Secrets of RLHF in Large Language Models Part I: PPO (Jul 2023) &nbsp;[Link](https://arxiv.org/abs/2307.04964) &nbsp;[PDF](https://arxiv.org/pdf/2307.04964.pdf)
 * RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (Sep 2023) &nbsp;[Link](https://arxiv.org/abs/2309.00267) &nbsp;[PDF](https://arxiv.org/pdf/2309.00267.pdf)
 * Constitutional AI: Harmlessness from AI Feedback (Dec 2022) &nbsp;[Link](https://arxiv.org/abs/2212.08073) &nbsp;[PDF](https://arxiv.org/pdf/2212.08073.pdf)
+* Fine-tuning Language Models with Generative Adversarial Feedback (Oct 2023) &nbsp;[Link](https://arxiv.org/abs/2305.06176) &nbsp;[PDF](https://arxiv.org/pdf/2305.06176.pdf)
 
   
