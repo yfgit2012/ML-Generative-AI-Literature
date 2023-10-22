@@ -13,6 +13,7 @@
 * Benchmarking Large Language Models in Retrieval-Augmented Generation (Sep 2023) &nbsp;[Link](https://arxiv.org/abs/2309.01431) &nbsp;[PDF](https://arxiv.org/pdf/2309.01431.pdf)      
 
 #### Fine Tuning
+* Fine-tuning language models to find agreement among humans with diverse preferences (Nov 2022) &nbsp;[Link](https://arxiv.org/abs/2211.15006) &nbsp;[PDF](https://arxiv.org/pdf/2211.15006.pdf)
 * Instruction Tuning for Large Language Models: A Survey (Oct 2023) &nbsp;[Link](https://arxiv.org/abs/2308.10792) &nbsp;[PDF](https://arxiv.org/pdf/2308.10792.pdf) 
 * Self-Instruct: Aligning Language Models with Self-Generated Instructions (May 2023) &nbsp;[Link](https://arxiv.org/abs/2212.10560) &nbsp;[PDF](https://arxiv.org/pdf/2212.10560.pdf)
 * On the Exploitability of Instruction Tuning (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2306.17194) &nbsp;[PDF](https://arxiv.org/pdf/2306.17194.pdf)
