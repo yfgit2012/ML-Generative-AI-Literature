@@ -16,6 +16,7 @@
 * Fine-tuning language models to find agreement among humans with diverse preferences (Nov 2022) &nbsp;[Link](https://arxiv.org/abs/2211.15006) &nbsp;[PDF](https://arxiv.org/pdf/2211.15006.pdf)
 * Instruction Tuning for Large Language Models: A Survey (Oct 2023) &nbsp;[Link](https://arxiv.org/abs/2308.10792) &nbsp;[PDF](https://arxiv.org/pdf/2308.10792.pdf) 
 * Self-Instruct: Aligning Language Models with Self-Generated Instructions (May 2023) &nbsp;[Link](https://arxiv.org/abs/2212.10560) &nbsp;[PDF](https://arxiv.org/pdf/2212.10560.pdf)
+* Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models (Feb 2023) &nbsp;[Link](https://arxiv.org/abs/2302.00618) &nbsp;[PDF](https://arxiv.org/pdf/2302.00618.pdf)
 * On the Exploitability of Instruction Tuning (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2306.17194) &nbsp;[PDF](https://arxiv.org/pdf/2306.17194.pdf)
 * LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention (Jun 2023) &nbsp;[Link](https://arxiv.org/abs/2303.16199) &nbsp;[PDF](https://arxiv.org/pdf/2303.16199.pdf)
 
